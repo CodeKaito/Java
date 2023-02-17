@@ -40,3 +40,11 @@ In Java, every application begins with a class name, and that class must match t
 Let's create our first Java file, called Main.java, which can be done in any text editor (like Notepad).
 
 The file should contain a "Hello World" message, which is written with the following code:
+````
+Main.java
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
+````
