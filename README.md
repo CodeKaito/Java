@@ -3,7 +3,7 @@
 ### Index
 
 1. [ Introduction. ](#introduction)
-2. [ Reading and writing to a console. ](#part2)
+2. [ Java Quickstart. ](#start)
 
 <a name="introduction"></a>
 - ## Introduction
@@ -32,3 +32,11 @@ It is secure, fast and powerful
 It has a huge community support (tens of millions of developers)
 Java is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs
 As Java is close to C++ and C#, it makes it easy for programmers to switch to Java or vice versa
+
+<a name="start"></a>
+- ## Java Quickstart
+In Java, every application begins with a class name, and that class must match the filename.
+
+Let's create our first Java file, called Main.java, which can be done in any text editor (like Notepad).
+
+The file should contain a "Hello World" message, which is written with the following code:
