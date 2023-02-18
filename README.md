@@ -77,3 +77,4 @@ The name of the java file must match the class name. When saving the file, save 
 `Hello World`
 
 ### The main Method
+The `main() method` is required and you will see it in every Java program:
