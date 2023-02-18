@@ -123,5 +123,5 @@ When you are working with text, it must be wrapped inside double quotations mark
 If you forget the double quotes, an error occurs:
 ````
 System.out.println("This sentence will work!");
-System.out.println(This sentence will produce an error);
+- text in red System.out.println(This sentence will produce an error);
 ````
