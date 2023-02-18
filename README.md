@@ -8,6 +8,7 @@
     - [ Main() Method ](#main)
     - [ System.out.println() ](#print)
     - [ Java Output / Print ](#print2)
+    - [ Double quotes ](#quotes)
 
 <a name="introduction"></a>
 - ## Introduction
@@ -117,8 +118,9 @@ System.out.println("It is awesome!");
 
 ⚠️ Note: You can add as many println() methods as you want. Note that it will add a new line for each method.
 
+<a name="quotes"></a>
 ### Double Quotes
-When you are working with text, it must be wrapped inside double quotations marks "".
+When you are working with text, it must be wrapped inside double quotations marks `""`.
 
 If you forget the double quotes, an error occurs:
 ````diff
