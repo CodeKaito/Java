@@ -80,3 +80,6 @@ Hello World
 
 ### The main Method
 The `main() method` is required and you will see it in every Java program:
+````
+public static void main(String[] args)
+````
