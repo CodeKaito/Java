@@ -48,3 +48,11 @@ public class Main {
   }
 }
 ````
+
+Don't worry if you don't understand the code above - we will discuss it in detail in later chapters. For now, focus on how to run the code above.
+
+Save the code in Notepad as "Main.java". Open Command Prompt (cmd.exe), navigate to the directory where you saved your file, and type "javac Main.java":
+````
+C:\Users\Your Name>javac Main.java
+````
+
