@@ -108,3 +108,20 @@ You should also note that each code statement must end with a semicolon (`;`).
 
 <a name="print"></a>
 ### Java Output / Print
+You can add as many println() methods as you want:
+````
+System.out.println("Hello World!");
+System.out.println("I am learning Java.");
+System.out.println("It is awesome!");
+````
+
+⚠️ Note: You can add as many println() methods as you want. Note that it will add a new line for each method.
+
+### Double Quotes
+When you are working with text, it must be wrapped inside double quotations marks "".
+
+If you forget the double quotes, an error occurs:
+````
+System.out.println("This sentence will work!");
+System.out.println(This sentence will produce an error);
+````
