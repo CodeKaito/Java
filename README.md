@@ -121,7 +121,7 @@ System.out.println("It is awesome!");
 When you are working with text, it must be wrapped inside double quotations marks "".
 
 If you forget the double quotes, an error occurs:
-````
+````diff
 System.out.println("This sentence will work!");
 - text in red System.out.println(This sentence will produce an error);
 ````
