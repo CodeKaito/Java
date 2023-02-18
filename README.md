@@ -5,6 +5,8 @@
 1. [ Introduction. ](#introduction)
 2. [ Java Quickstart. ](#start)
 3. [ Java Syntax. ](#syntax)
+        - [ Main Method ](#main)
+        - [ System.out.println ](#print)
 
 <a name="introduction"></a>
 - ## Introduction
@@ -78,6 +80,7 @@ The name of the java file must match the class name. When saving the file, save 
 Hello World
 ````
 
+<a name="main"></a>
 ### The main Method
 The `main() method` is required and you will see it in every Java program:
 ````
@@ -85,3 +88,7 @@ public static void main(String[] args)
 ````
 
 ⚠️ Note: remember that every Java program has a class name which must match the filename, and that every program must contain the main() method.
+
+<a name="print"></a>
+### System.out.println()
+Inside the main() method, we can use the println() method to print a line of text to the screen:
