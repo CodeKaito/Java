@@ -84,4 +84,4 @@ The `main() method` is required and you will see it in every Java program:
 public static void main(String[] args)
 ````
 
-Note: remember that every Java program has a class name which must match the filename, and that every program must contain the main() method.
+⚠️ Note: remember that every Java program has a class name which must match the filename, and that every program must contain the main() method.
