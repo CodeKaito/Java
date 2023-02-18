@@ -7,6 +7,7 @@
 3. [ Java Syntax. ](#syntax)
     - [ Main() Method ](#main)
     - [ System.out.println() ](#print)
+    - [ Java Output / Print ](#print2)
 
 <a name="introduction"></a>
 - ## Introduction
@@ -104,3 +105,6 @@ public static void main(String[] args) {
 Don't worry too much about `System`, `out` and `println()`. Just know that you need them together to print stuff to the screen.
 
 You should also note that each code statement must end with a semicolon (`;`).
+
+<a name="print"></a>
+### Java Output / Print
