@@ -5,8 +5,8 @@
 1. [ Introduction. ](#introduction)
 2. [ Java Quickstart. ](#start)
 3. [ Java Syntax. ](#syntax)
-                - [ Main Method ](#main)
-                - [ System.out.println ](#print)
+    - [ Main Method ](#main)
+    - [ System.out.println ](#print)
 
 <a name="introduction"></a>
 - ## Introduction
