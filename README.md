@@ -56,3 +56,11 @@ Save the code in Notepad as "Main.java". Open Command Prompt (cmd.exe), navigate
 C:\Users\Your Name>javac Main.java
 ````
 
+This will compile your code. If there are no errors in the code, the command prompt will take you to the next line. Now, type "java Main" to run the file:
+````
+C:\Users\Your Name>java Main
+````
+Output:
+````
+Hello world!
+````
