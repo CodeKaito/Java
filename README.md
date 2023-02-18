@@ -62,5 +62,5 @@ C:\Users\Your Name>java Main
 ````
 Output:
 ````
-Hello world!
+Hello World!
 ````
