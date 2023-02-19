@@ -9,6 +9,7 @@
     - [ System.out.println() ](#print)
     - [ Java Output / Print ](#print2)
     - [ Double quotes ](#quotes)
+    - [ Java Output Numbers ](#outputnumbers)
 
 <a name="introduction"></a>
 - ## Introduction
