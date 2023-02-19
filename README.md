@@ -7,7 +7,7 @@
 3. [ Java Syntax. ](#syntax)
     - [ Main() Method ](#main)
     - [ System.out.println() ](#print)
-    - [ Java Output / Print ](#print2)
+4. [ Java Output / Print ](#output)
     - [ Double quotes ](#quotes)
     - [ Java Output Numbers ](#outputnumbers)
 
@@ -108,7 +108,7 @@ Don't worry too much about `System`, `out` and `println()`. Just know that you n
 
 You should also note that each code statement must end with a semicolon (`;`).
 
-<a name="print"></a>
+<a name="output"></a>
 ### Java Output / Print
 You can add as many println() methods as you want:
 ````
