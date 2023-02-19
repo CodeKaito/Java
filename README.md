@@ -127,7 +127,7 @@ If you forget the double quotes, an error occurs:
 +System.out.println("This sentence will work!");
 -System.out.println(This sentence will produce an error);
 ````
-The Print() Method
+### The Print() Method
 There is also a print() method, which is similar to println().
 
 The only difference is that it does not insert a new line at the end of the output:
@@ -138,4 +138,20 @@ System.out.print("I will print on the same line.");
 Output:
 ````
 Hello World! I will print on the same line.
+````
+
+<a name="outputnumbers"></a>
+### Java Output Numbers
+You can also use the println() method to print numbers.
+
+However, unlike text, we don't put numbers inside double quotes:
+````
+System.out.println(3);
+System.out.println(358);
+System.out.println(50000);
+````
+You can also perform mathematical calculations inside the println() method:
+````
+System.out.println(3 + 3);
+System.out.println(2 * 5);
 ````
