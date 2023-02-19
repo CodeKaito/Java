@@ -1,4 +1,4 @@
-# My learning progress about Java..
+# My learning progress about Java...
 
 ### Index
 
