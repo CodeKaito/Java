@@ -162,4 +162,4 @@ System.out.println(2 * 5);
 ````
 
 <a name="variables"></a>
-- ## Java Variables 
+- ## Java Variables
