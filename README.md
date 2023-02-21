@@ -178,3 +178,13 @@ type variablename = value
 Where type is one of Java's types (such as int or String), and variableName is the name of the variable (such as x or name). The equal sign is used to assign values to the variable.
 
 To create a variable that should store text, look at the following example:
+````
+String name = "John";
+System.out.println(name);
+````
+
+To create a variable that should store a number, look at the following example:
+````
+int myNum = 15;
+System.out.println(myNum);
+````
