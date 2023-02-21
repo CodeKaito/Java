@@ -10,6 +10,10 @@
 4. [ Java Output / Print ](#output)
     - [ Double quotes ](#quotes)
     - [ Java Output Numbers ](#outputnumbers)
+5. [ Java Variables ](#variables)
+    - [ Print Variables](#printvariables)
+    - [ Multiple Variables](#multiplevariables)
+    - [ Identifiers ](#identifiers)
 
 <a name="introduction"></a>
 - ## Introduction
@@ -156,3 +160,6 @@ You can also perform mathematical calculations inside the println() method:
 System.out.println(3 + 3);
 System.out.println(2 * 5);
 ````
+
+<a name="variables"></a>
+- ## Java Variables 
