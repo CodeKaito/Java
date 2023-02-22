@@ -1,4 +1,4 @@
-
+package Input;
 // Import java.util.Scanner
 // create scanner object
 // make some questions
