@@ -5,5 +5,9 @@ public class Variables {
 
         int myNum = 15;
         System.out.println(myNum);
+
+        int myNum2;
+        myNum2 = 15;
+        System.out.println(myNum2);
     }
 }

@@ -188,3 +188,10 @@ To create a variable that should store a number, look at the following example:
 int myNum = 15;
 System.out.println(myNum);
 ````
+
+You can also declare a variable without assigning the value, and assign the value later:
+````
+int myNum;
+myNum = 15;
+System.out.println(myNum);
+````
