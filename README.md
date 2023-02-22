@@ -213,3 +213,6 @@ boolean myBool = true;
 ````
 String myText = "Hello";
 ````
+
+<a name="printvariables"></a>
+## Print Variables
