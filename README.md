@@ -240,9 +240,9 @@ System.out.println(x + y); // Print the value of x + y
 <a name="multiplevariables"></a>
 ### Multiple Variables
 To declare more than one variable of the same type, you can use a comma-separated list:
-````
-int x = 5;
-int y = 6;
-int z = 50;
-System.out.println(x + y + z);
+````diff
+-int x = 5;
+-int y = 6;
+-int z = 50;
+-System.out.println(x + y + z);
 ````
