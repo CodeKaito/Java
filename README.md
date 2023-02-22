@@ -230,3 +230,4 @@ String lastName = "Doe";
 String fullName = firstName + lastName;
 System.out.println(fullName);
 ````
+For numeric values, the `+` character works as a mathematical operator (notice that we use `int` (integer) variables here):
