@@ -195,3 +195,4 @@ int myNum;
 myNum = 15;
 System.out.println(myNum);
 ````
+⚠️Note: that if you assign a new value to an existing variable, it will overwrite the previous value:
