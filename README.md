@@ -11,8 +11,8 @@
     - [ Double quotes ](#quotes)
     - [ Java Output Numbers ](#outputnumbers)
 5. [ Java Variables ](#variables)
-    - [ Print Variables](#printvariables)
-    - [ Multiple Variables](#multiplevariables)
+    - [ Print Variables ](#printvariables)
+    - [ Multiple Variables ](#multiplevariables)
     - [ Identifiers ](#identifiers)
 
 <a name="introduction"></a>
