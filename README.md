@@ -250,3 +250,25 @@ To declare more than one variable of the same type, you can use a comma-separate
 +int x = 5, y = 6, z = 50;
 +System.out.println(x + y + z);
 ````
+### One Value to Multiple Variables
+You can also assign the same value to multiple variables in one line:
+````
+int x, y, z;
+x = y = z = 50;
+System.out.println(x + y + z);
+````
+
+<a name="identifiers"></a>
+### Identifiers
+All Java variables must be identified with unique names.
+
+These unique names are called identifiers.
+
+Identifiers can be short names (like x and y) or more descriptive names (age, sum, totalVolume).
+````
+// Good
+int minutesPerHour = 60;
+
+// OK, but not so easy to understand what m actually is
+int m = 60;
+````
