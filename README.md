@@ -215,4 +215,4 @@ String myText = "Hello";
 ````
 
 <a name="printvariables"></a>
-## Print Variables
+### Print Variables
