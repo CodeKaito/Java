@@ -231,3 +231,8 @@ String fullName = firstName + lastName;
 System.out.println(fullName);
 ````
 For numeric values, the `+` character works as a mathematical operator (notice that we use `int` (integer) variables here):
+````
+int x = 5;
+int y = 6;
+System.out.println(x + y); // Print the value of x + y
+````
