@@ -280,4 +280,4 @@ int m = 60;
 - Names should start with a lowercase letter and it cannot contain whitespace
 - Names can also begin with $ and _ (but we will not use it in this - tutorial)
 - Names are case sensitive ("myVar" and "myvar" are different variables)
-- Reserved words (like Java keywords, such as int or boolean) cannot be used as names
+- Reserved words (like Java keywords, such as `int` or `boolean`) cannot be used as names
