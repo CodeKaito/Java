@@ -196,3 +196,14 @@ myNum = 15;
 System.out.println(myNum);
 ````
 ⚠️Note: that if you assign a new value to an existing variable, it will overwrite the previous value:
+
+A demonstration of how to declare variables of other types:
+````
+int myNum = 5;
+````
+float myFloatNum = 5.99f;
+````
+char myLetter = 'D';
+boolean myBool = true;
+String myText = "Hello";
+````
