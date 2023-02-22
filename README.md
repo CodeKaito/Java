@@ -246,3 +246,7 @@ To declare more than one variable of the same type, you can use a comma-separate
 -int z = 50;
 -System.out.println(x + y + z);
 ````
+````diff
++int x = 5, y = 6, z = 50;
++System.out.println(x + y + z);
+````
