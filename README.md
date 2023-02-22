@@ -273,7 +273,7 @@ int minutesPerHour = 60;
 int m = 60;
 ````
 
-⚠️Note: The general rules for naming variables are:
+⚠️ Note: The general rules for naming variables are:
 
 - Names can contain letters, digits, underscores, and dollar signs
 - Names must begin with a letter
