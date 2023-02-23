@@ -1,3 +1,4 @@
+import java.lang.Math;
 // methods: abs, min, max, pow, sqrt
 
 public class MathClass {

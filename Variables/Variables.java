@@ -10,4 +10,4 @@ public class Variables {
         myNum2 = 15;
         System.out.println(myNum2);
     }
-}
+} 
