@@ -323,3 +323,15 @@ if (x > y) {
 In the example above we use two variables, x and y, to test whether x is greater than y (using the > operator). As x is 20, and y is 18, and we know that 20 is greater than 18, we print to the screen that "x is greater than y".
 
 ⚠️ Note that if is in lowercase letters. Uppercase letters (If or IF) will generate an error.
+
+<a name="else"></a>
+### The else Statement
+Use the else statement to specify a block of code to be executed if the condition is false.
+````
+if (condition) {
+  // block of code to be executed if the condition is true
+} else {
+  // block of code to be executed if the condition is false
+}
+````
+
