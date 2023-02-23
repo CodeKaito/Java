@@ -17,6 +17,7 @@
 6. [ Java If...Else ](#if)
     - [ Java Conditions and If Statements ](#if2)
     - [ Else Statement ](#else)
+    - [ Else If Statement ](#elseif)
     - [ Short Hand If...Else](#shorthand)
 
 <a name="introduction"></a>
@@ -334,4 +335,16 @@ if (condition) {
   // block of code to be executed if the condition is false
 }
 ````
+Example:
+````
+int time = 20;
+if (time < 18) {
+  System.out.println("Good day.");
+} else {
+  System.out.println("Good evening.");
+}
+// Outputs "Good evening."
+````
+In the example above, time (20) is greater than 18, so the condition is false. Because of this, we move on to the else condition and print to the screen "Good evening". If the time was less than 18, the program would print "Good day".
+
 
