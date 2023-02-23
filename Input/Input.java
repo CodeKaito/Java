@@ -14,15 +14,15 @@ public class Input {
         System.out.println("What's your last name?");
         String surname = scanner.nextLine();
 
-        System.out.println("Where do you live?");
-        String city = scanner.nextLine();
-
         System.out.println("What's your age?");
         int age = scanner.nextInt();
+        scanner.nextLine();
+
+        System.out.println("Where do you live?");
+        String city = scanner.nextLine();
 
         System.out.println("Hello " + name + " " + surname);
         System.out.println("You have " + age + " years old");
         System.out.println("You live in " + city);
-        
     }
 }
