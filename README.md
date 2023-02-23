@@ -284,3 +284,14 @@ int m = 60;
 - Names can also begin with $ and _ (but we will not use it in this - tutorial)
 - Names are case sensitive ("myVar" and "myvar" are different variables)
 - Reserved words (like Java keywords, such as `int` or `boolean`) cannot be used as names
+
+<a name ="if"></a>
+- ## Java If Statement
+You already know that Java supports the usual logical conditions from mathematics:
+
+-Less than: a < b
+-Less than or equal to: a <= b
+-Greater than: a > b
+-Greater than or equal to: a >= b
+-Equal to a == b
+-Not Equal to: a != b
