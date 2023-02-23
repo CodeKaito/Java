@@ -15,6 +15,7 @@
     - [ Multiple Variables ](#multiplevariables)
     - [ Identifiers ](#identifiers)
 6. [ Java If...Else ](#if)
+    - [ Java Conditions and If Statements ](#if2)
 
 <a name="introduction"></a>
 - ## Introduction
