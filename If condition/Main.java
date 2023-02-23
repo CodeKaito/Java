@@ -9,7 +9,7 @@ public class Main {
         }
         */
         
-        String result = (isOnline == true) ? "è online" : "non è online";
+        String result = (isOnline == true) ? "è online" : "non è online"; 
         
         System.out.println(result);
     }    
