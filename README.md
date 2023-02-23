@@ -347,4 +347,6 @@ if (time < 18) {
 ````
 In the example above, time (20) is greater than 18, so the condition is false. Because of this, we move on to the else condition and print to the screen "Good evening". If the time was less than 18, the program would print "Good day".
 
-
+<a name="elseif"></a>
+### The Else If Statement
+Use the `else if` statement to specify a new condition if the first condition is `false`.
