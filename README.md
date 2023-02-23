@@ -327,7 +327,7 @@ In the example above we use two variables, x and y, to test whether x is greater
 
 <a name="else"></a>
 ### The else Statement
-Use the else statement to specify a block of code to be executed if the condition is false.
+Use the `else` statement to specify a block of code to be executed if the condition is `false`.
 ````
 if (condition) {
   // block of code to be executed if the condition is true
@@ -345,7 +345,7 @@ if (time < 18) {
 }
 // Outputs "Good evening."
 ````
-In the example above, time (20) is greater than 18, so the condition is false. Because of this, we move on to the else condition and print to the screen "Good evening". If the time was less than 18, the program would print "Good day".
+In the example above, time (20) is greater than 18, so the condition is `false`. Because of this, we move on to the `else` condition and print to the screen "Good evening". If the time was less than 18, the program would print "Good day".
 
 <a name="elseif"></a>
 ### The Else If Statement
