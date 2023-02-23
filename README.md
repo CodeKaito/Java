@@ -16,6 +16,7 @@
     - [ Identifiers ](#identifiers)
 6. [ Java If...Else ](#if)
     - [ Java Conditions and If Statements ](#if2)
+    - [ Else Statement ](#else)
     - [ Short Hand If...Else](#shorthand)
 
 <a name="introduction"></a>
@@ -311,3 +312,4 @@ if (condition) {
   // block of code to be executed if the condition is true
 }
 ````
+⚠️ Note that if is in lowercase letters. Uppercase letters (If or IF) will generate an error.
