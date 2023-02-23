@@ -302,3 +302,12 @@ Use `if` to specify a block of code to be executed, if a specified condition is 
 Use `else` to specify a block of code to be executed, if the same condition is false
 Use `else if` to specify a new condition to test, if the first condition is false
 Use `switch` to specify many alternative blocks of code to be executed
+
+<a name="if2"></a>
+### The if Statement
+Use the `if` statement to specify a block of Java code to be executed if a condition is `true`.
+````
+if (condition) {
+  // block of code to be executed if the condition is true
+}
+````
