@@ -14,6 +14,7 @@
     - [ Print Variables ](#printvariables)
     - [ Multiple Variables ](#multiplevariables)
     - [ Identifiers ](#identifiers)
+6. [ Java If...Else ](#if)
 
 <a name="introduction"></a>
 - ## Introduction
