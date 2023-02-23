@@ -16,6 +16,7 @@
     - [ Identifiers ](#identifiers)
 6. [ Java If...Else ](#if)
     - [ Java Conditions and If Statements ](#if2)
+    - [ Short Hand If...Else](#shorthand)
 
 <a name="introduction"></a>
 - ## Introduction
