@@ -27,10 +27,10 @@
 ## Java Method (functions)
 
 [ Java Method ](#methods)
-    - [ Java Parameters and Arguments](#parameters)
-    - [ Java Method Overloading ](#overloading)
-    - [ Java Scope ](#scope)
-    - [ Java Recursion ](#recursion)
+  - [ Java Parameters and Arguments](#parameters)
+  - [ Java Method Overloading ](#overloading)
+  - [ Java Scope ](#scope)
+  - [ Java Recursion ](#recursion)
 ---------------------------
 ## Java Classes
 
