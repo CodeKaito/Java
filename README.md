@@ -35,8 +35,8 @@
 ## Java Classes
 
 1. [ Java OOP](#oop)
-    - [ Java classes/objects ](#classes)
-    - [ Java class attributes](#attributes)
+2. [ Java classes/objects ](#classes)
+3. [ Java class attributes](#attributes)
 
 
 ---------------------------
