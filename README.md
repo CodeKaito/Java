@@ -26,7 +26,7 @@
 ---------------------------
 ## Java Method (functions)
 
-[ Java Method ](#methods)
+1. [ Java Method ](#methods)
   - [ Java Parameters and Arguments](#parameters)
   - [ Java Method Overloading ](#overloading)
   - [ Java Scope ](#scope)
