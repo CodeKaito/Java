@@ -19,6 +19,7 @@
     - [ Else Statement ](#else)
     - [ Else If Statement ](#elseif)
     - [ Short Hand If...Else](#shorthand)
+7. [ 
 
 <a name="introduction"></a>
 - ## Introduction
@@ -350,3 +351,12 @@ In the example above, time (20) is greater than 18, so the condition is `false`.
 <a name="elseif"></a>
 ### The Else If Statement
 Use the `else if` statement to specify a new condition if the first condition is `false`.
+````
+if (condition1) {
+  // block of code to be executed if condition1 is true
+} else if (condition2) {
+  // block of code to be executed if the condition1 is false and condition2 is true
+} else {
+  // block of code to be executed if the condition1 is false and condition2 is false
+}
+````
