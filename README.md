@@ -19,7 +19,7 @@
     - [ Else Statement ](#else)
     - [ Else If Statement ](#elseif)
     - [ Short Hand If...Else](#shorthand)
-7. [ 
+7. [ ](#)
 
 <a name="introduction"></a>
 - ## Introduction
