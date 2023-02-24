@@ -1,6 +1,6 @@
 # My learning progress about Java
 
-### Index
+## Java Basics
 
 1. [ Introduction. ](#introduction)
 2. [ Java Quickstart. ](#start)
@@ -23,6 +23,19 @@
 8. [ Java For Loops](#for)
     - [ For each loops ](#foreach)
 9. [ Java Arrays ](#arrays)
+---------------------------
+## Java Method (functions)
+
+1. [ Java Method ](#methods)
+  - [ Java Parameters and Arguments](#parameters)
+  - [ Java Method Overloading ](#overloading)
+  - [ Java Scope ](#scope)
+  - [ Java Recursion ](#recursion)
+---------------------------
+## Java Classes
+
+
+---------------------------
 
 <a name="introduction"></a>
 - ## Introduction
