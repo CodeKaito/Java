@@ -2,6 +2,8 @@
 
 ### Index
 
+## Java Basics
+
 1. [ Introduction. ](#introduction)
 2. [ Java Quickstart. ](#start)
 3. [ Java Syntax. ](#syntax)
@@ -24,6 +26,8 @@
     - [ For each loops ](#foreach)
 9. [ Java Arrays ](#arrays)
 ---------------------------
+## Java Method (functions)
+
 1. [ Java Method ](#methods)
     - [ Java Parameters and Arguments](#parameters)
     - [ Java Method Overloading ](#overloading)
