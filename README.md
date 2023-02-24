@@ -23,6 +23,8 @@
 8. [ Java For Loops](#for)
     - [ For each loops ](#foreach)
 9. [ Java Arrays ](#arrays)
+---------------------------
+1. [ Java Method ](#methods)
 
 <a name="introduction"></a>
 - ## Introduction
