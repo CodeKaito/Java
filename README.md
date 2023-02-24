@@ -19,7 +19,10 @@
     - [ Else Statement ](#else)
     - [ Else If Statement ](#elseif)
     - [ Short Hand If...Else](#shorthand)
-7. [ ](#)
+7. [ Java While Loops ](#while)
+8. [ Java For Loops](#for)
+    - [ For each loops ](#foreach)
+9. [ Java Arrays ](#arrays)
 
 <a name="introduction"></a>
 - ## Introduction
