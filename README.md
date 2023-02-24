@@ -25,6 +25,10 @@
 9. [ Java Arrays ](#arrays)
 ---------------------------
 1. [ Java Method ](#methods)
+    - [ Java Parameters and Arguments](#parameters)
+    - [ Java Method Overloading ](#overloading)
+    - [ Java Scope ](#scope)
+    - [ Java Recursion ](#recursion)
 
 <a name="introduction"></a>
 - ## Introduction
