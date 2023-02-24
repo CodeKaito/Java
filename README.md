@@ -381,3 +381,6 @@ However, if the time was 14, our program would print "Good day."
 There is also a short-hand if else, which is known as the ternary operator because it consists of three operands.
 
 It can be used to replace multiple lines of code with a single line, and is most often used to replace simple if else statements:
+````
+variable = (condition) ? expressionTrue :  expressionFalse;
+````
