@@ -1,7 +1,5 @@
 # My learning progress about Java
 
-### Index
-
 ## Java Basics
 
 1. [ Introduction. ](#introduction)
