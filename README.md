@@ -39,6 +39,7 @@
 3. [ Java Class attributes](#attributes)
 4. [ Java Class Method ](#classmethod)
 5. [ Java Class Constructors ](#classconstructor)
+6. [ Java Modifiers ](#modifiers)
 
 
 ---------------------------
