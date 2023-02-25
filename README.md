@@ -44,7 +44,9 @@
 8. [ Java Packages & API ](#packages)
 9. [ Java Inheritance ](#inheritance)
 10. [ Java Polymorphism ](#polymorphism)
-11. [ Java Inner Classes ](#innerclass)
+11. [ Java Inner Classes ](#innerclasses)
+12. [ Java Abstraction ](#abstraction)
+13. [ Java Interface ](#interface)
 
 
 ---------------------------
