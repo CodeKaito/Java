@@ -43,7 +43,8 @@
 7. [ Java Encapsulation ](#encapsulation)
 8. [ Java Packages & API ](#packages)
 9. [ Java Inheritance ](#inheritance)
-10.[ Java Polymorphism ](#polymorphism)
+10. [ Java Polymorphism ](#polymorphism)
+11. [ Java Inner Classes ](#innerclass)
 
 
 ---------------------------
