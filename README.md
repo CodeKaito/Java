@@ -37,7 +37,7 @@
 1. [ Java OOP](#oop)
 2. [ Java Classes/objects ](#classes)
 3. [ Java Class attributes](#attributes)
-4. [ Java Class Method ](#class method)
+4. [ Java Class Method ](#classmethod)
 
 
 ---------------------------
