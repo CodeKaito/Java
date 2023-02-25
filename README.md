@@ -47,6 +47,7 @@
 11. [ Java Inner Classes ](#innerclasses)
 12. [ Java Abstraction ](#abstraction)
 13. [ Java Interface ](#interface)
+14. [ Java Enums ](#enums)
 
 
 ---------------------------
