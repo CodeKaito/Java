@@ -57,7 +57,7 @@
 21. [ Java Wrapper Classes ](#wrapper)
 22. [ Java Exceptions ](#exceptions)
 23. [ Java RegEx ](#regex)
-
+24. [ Java Threads ](#threas)
 
 ---------------------------
 
