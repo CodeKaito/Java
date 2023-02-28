@@ -55,6 +55,7 @@
 19. [ Java Hashset ](#hashset)
 20. [ Java Iterator ](#iterator)
 21. [ Java Wrapper Classes ](#wrapper)
+22. [ Java Exceptions ](#exceptions)
 
 
 ---------------------------
