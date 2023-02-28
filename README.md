@@ -62,10 +62,10 @@
 ---------------------------
 ## Java File Handling
 
-1. Java Files
-2. Java Create/Write Files
-3. Java Read Files
-4. Java Delete Files
+1. [Java Files]
+2. [Java Create/Write Files](#)
+4. [Java Read Files](#)
+6. [Java Delete Files](#)
 ---------------------------
 ## Java Notes
 
