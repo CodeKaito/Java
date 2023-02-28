@@ -58,7 +58,7 @@
 22. [ Java Exceptions ](#exceptions)
 23. [ Java RegEx ](#regex)
 24. [ Java Threads ](#threads)
-
+25. [ Java Lambda ](#lambda)
 ---------------------------
 
 <a name="introduction"></a>
