@@ -60,6 +60,16 @@
 24. [ Java Threads ](#threads)
 25. [ Java Lambda ](#lambda)
 ---------------------------
+## Java File Handling
+
+1. Java Files
+2. Java Create/Write Files
+3. Java Read Files
+4. Java Delete Files
+---------------------------
+## Java Notes
+
+---------------------------
 
 <a name="introduction"></a>
 - ## Introduction
