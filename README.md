@@ -51,7 +51,7 @@
 15. [ Java User Input (Scanner) ](#input)
 16. [ Java Dates ](#dates)
 17. [ Java Arraylist ](#arraylist)
-18. 
+18. [ Java Hashmap ](#hashmap)
 
 
 ---------------------------
