@@ -5,5 +5,5 @@
  * @author ADMMCSIDecinco
  *
  */
-module test {
+module Java {
 }
