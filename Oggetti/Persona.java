@@ -1,11 +1,9 @@
-package Oggetti;
-
 public class Persona {
     
     String nome = "Luca";
     String cognome = "Rossi";
     int eta = 25;
-    String colorepReferito = "Blu";
+    String colorePreferito = "Blu";
 
     void saluta(){
         System.out.println("Ciao sono" + nome);
