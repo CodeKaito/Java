@@ -14,6 +14,16 @@ public class Persona {
 	}
 	
 	void saluta(){
-		System.out.println("ciao sono" + this.nome);
+		System.out.println("ciao sono " + this.nome);
+	}
+	
+	void addizione(int a, int b) {
+		int risultato = a + b;
+		System.out.println("Il risultato è " + risultato);
+	}
+	
+	void sottrazione(int a, int b) {
+		int risultato = a - b;
+		System.out.println("Il risultato è " + risultato);
 	}
 }

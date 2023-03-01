@@ -6,6 +6,8 @@ public class main {
 		Persona persona2 = new Persona("Marco", "Verdi", 35, "rosso");
 		
 		System.out.println(persona2.nome);
-		System.out.println(persona1.nome);
+		persona2.saluta();
+		persona1.addizione(2, 3);
+		persona2.sottrazione(3, 2);
 	}
 }
