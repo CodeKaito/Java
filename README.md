@@ -449,3 +449,24 @@ int time = 20;
 String result = (time < 18) ? "Good day." : "Good evening.";
 System.out.println(result);
 ````
+
+<a name="while"></a>
+- ## Java While Loop
+Loops can execute a block of code as long as a specified condition is reached.
+
+Loops are handy because they save time, reduce errors, and they make code more readable.
+
+The while loop loops through a block of code as long as a specified condition is true:
+````
+while (condition) {
+  // code block to be executed
+}
+````
+In the example below, the code in the loop will run, over and over again, as long as a variable (i) is less than 5:
+````
+int i = 0;
+while (i < 5) {
+  System.out.println(i);
+  i++;
+}
+````
