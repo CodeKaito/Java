@@ -576,3 +576,19 @@ You can also create an object of a class and access it in another class. This is
 Remember that the name of the java file should match the class name. In this example, we have created two files in the same directory/folder:
 - Main.java
 - Second.java
+
+#### Main.java
+````
+public class Main {
+  int x = 5;
+}
+````
+#### Second.java
+````
+class Second {
+  public static void main(String[] args) {
+    Main myObj = new Main();
+    System.out.println(myObj.x);
+  }
+}
+````
