@@ -577,13 +577,13 @@ Remember that the name of the java file should match the class name. In this exa
 - Main.java
 - Second.java
 
-#### Main.java
+#### `Main.java`
 ````
 public class Main {
   int x = 5;
 }
 ````
-#### Second.java
+#### `Second.java`
 ````
 class Second {
   public static void main(String[] args) {
