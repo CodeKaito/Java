@@ -37,8 +37,8 @@
 
 1. [ Java OOP](#oop)
 2. [ Java Classes/objects ](#classes)
-    - [ Create a class ](#createclass)
-    - [ Create an object ](#createobject)
+    - [ Create a Class ](#createclass)
+    - [ Create an Object ](#createobject)
     - [ Multiple Objects ](#multipleobject)
 4. [ Java Class attributes](#attributes)
 5. [ Java Class Method ](#classmethod)
