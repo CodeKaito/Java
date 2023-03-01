@@ -552,4 +552,4 @@ public class Main {
 ````
 
 <a name="multipleobject"></a>
-### Multiple Object
+### Multiple Objects
