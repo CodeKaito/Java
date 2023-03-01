@@ -40,6 +40,7 @@
     - [ Create a Class ](#createclass)
     - [ Create an Object ](#createobject)
     - [ Multiple Objects ](#multipleobject)
+    - [ Using Multiple Classes ](#multipleclasses)
 4. [ Java Class attributes](#attributes)
 5. [ Java Class Method ](#classmethod)
 6. [ Java Class Constructors ](#classconstructor)
