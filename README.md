@@ -534,7 +534,7 @@ public class Main {
 ⚠️ Note: Remember from the Java Syntax chapter that a class should always start with an uppercase first letter, and that the name of the java file should match the class name.
 
 <a name="createobject"></a>
-### Create an Object
+### Create an object:
 
 In Java, an object is created from a class. We have already created the class named `Main`, so now we can use this to create objects.
 
