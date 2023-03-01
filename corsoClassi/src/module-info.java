@@ -5,5 +5,5 @@
  * @author ADMMCSIDecinco
  *
  */
-module Java {
+module corsoClassi {
 }
