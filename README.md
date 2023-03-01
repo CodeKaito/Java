@@ -456,7 +456,7 @@ Loops can execute a block of code as long as a specified condition is reached.
 
 Loops are handy because they save time, reduce errors, and they make code more readable.
 
-The while loop loops through a block of code as long as a specified condition is true:
+The `while` loop loops through a block of code as long as a specified condition is `true`:
 ````
 while (condition) {
   // code block to be executed
@@ -470,3 +470,4 @@ while (i < 5) {
   i++;
 }
 ````
+⚠️ Note: Do not forget to increase the variable used in the condition, otherwise the loop will never end!
