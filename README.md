@@ -524,4 +524,10 @@ A Class is like an object constructor, or a "blueprint" for creating objects.
 
 <a name="createclass"></a>
 ### Create a class:
-To create a class, use the keyword class:
+To create a class, use the keyword `class`:
+````
+public class Main {
+  int x = 5;
+}
+````
+⚠️ Note: Remember from the Java Syntax chapter that a class should always start with an uppercase first letter, and that the name of the java file should match the class name.
