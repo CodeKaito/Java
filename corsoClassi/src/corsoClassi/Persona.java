@@ -6,7 +6,10 @@ public class Persona {
 	int eta;
 	String colorePreferito;
 	
-	Persona(){
-		
+	Persona(String nome, String cognome, int eta, String colorPreferito){
+		this.nome = nome;
+		this.cognome = cognome;
+		this.eta = eta;
+		this.colorePreferito = colorePreferito;
 	}
 }
