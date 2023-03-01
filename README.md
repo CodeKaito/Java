@@ -20,6 +20,7 @@
     - [ Else If Statement ](#elseif)
     - [ Short Hand If...Else](#shorthand)
 7. [ Java While Loops ](#while)
+    - [ The Do/While Loop ](#dowhile)
 8. [ Java For Loops](#for)
     - [ For each loops ](#foreach)
 9. [ Java Arrays ](#arrays)
@@ -471,3 +472,9 @@ while (i < 5) {
 }
 ````
 ⚠️ Note: Do not forget to increase the variable used in the condition, otherwise the loop will never end!
+
+### The Do/While Loop
+The `do/while` loop is a variant of the while loop. This loop will execute the code block once, before checking if the condition is true, then it will repeat the loop as long as the condition is true.
+````
+````
+
