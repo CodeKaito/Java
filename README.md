@@ -37,29 +37,30 @@
 
 1. [ Java OOP](#oop)
 2. [ Java Classes/objects ](#classes)
-3. [ Java Class attributes](#attributes)
-4. [ Java Class Method ](#classmethod)
-5. [ Java Class Constructors ](#classconstructor)
-6. [ Java Modifiers ](#modifiers)
-7. [ Java Encapsulation ](#encapsulation)
-8. [ Java Packages & API ](#packages)
-9. [ Java Inheritance ](#inheritance)
-10. [ Java Polymorphism ](#polymorphism)
-11. [ Java Inner Classes ](#innerclasses)
-12. [ Java Abstraction ](#abstraction)
-13. [ Java Interface ](#interface)
-14. [ Java Enums ](#enums)
-15. [ Java User Input (Scanner) ](#input)
-16. [ Java Dates ](#dates)
-17. [ Java Arraylist ](#arraylist)
-18. [ Java Hashmap ](#hashmap)
-19. [ Java Hashset ](#hashset)
-20. [ Java Iterator ](#iterator)
-21. [ Java Wrapper Classes ](#wrapper)
-22. [ Java Exceptions ](#exceptions)
-23. [ Java RegEx ](#regex)
-24. [ Java Threads ](#threads)
-25. [ Java Lambda ](#lambda)
+    - [ Create a class ](#createclass)
+4. [ Java Class attributes](#attributes)
+5. [ Java Class Method ](#classmethod)
+6. [ Java Class Constructors ](#classconstructor)
+7. [ Java Modifiers ](#modifiers)
+8. [ Java Encapsulation ](#encapsulation)
+9. [ Java Packages & API ](#packages)
+10. [ Java Inheritance ](#inheritance)
+11. [ Java Polymorphism ](#polymorphism)
+12. [ Java Inner Classes ](#innerclasses)
+13. [ Java Abstraction ](#abstraction)
+14. [ Java Interface ](#interface)
+15. [ Java Enums ](#enums)
+16. [ Java User Input (Scanner) ](#input)
+17. [ Java Dates ](#dates)
+18. [ Java Arraylist ](#arraylist)
+19. [ Java Hashmap ](#hashmap)
+20. [ Java Hashset ](#hashset)
+21. [ Java Iterator ](#iterator)
+22. [ Java Wrapper Classes ](#wrapper)
+23. [ Java Exceptions ](#exceptions)
+24. [ Java RegEx ](#regex)
+25. [ Java Threads ](#threads)
+26. [ Java Lambda ](#lambda)
 ---------------------------
 ## Java File Handling
 
@@ -512,3 +513,15 @@ Classes and objects are the two main aspects of object-oriented programming.
 A class is a template for objects, and an object is an instance of a class.
 
 When the individual objects are created, they inherit all the variables and methods from the class.
+
+<a name="classes"></a>
+- ## Java Classes/Objects
+Java is an object-oriented programming language.
+
+Everything in Java is associated with classes and objects, along with its attributes and methods. For example: in real life, a car is an object. The car has attributes, such as weight and color, and methods, such as drive and brake.
+
+A Class is like an object constructor, or a "blueprint" for creating objects.
+
+<a name="createclass"></a>
+### Create a class:
+To create a class, use the keyword class:
