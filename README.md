@@ -2,9 +2,9 @@
 
 ## Java Basics
 
-1. [ Introduction. ](#introduction)
-2. [ Java Quickstart. ](#start)
-3. [ Java Syntax. ](#syntax)
+1. [ Introduction ](#introduction)
+2. [ Java Quickstart ](#start)
+3. [ Java Syntax ](#syntax)
     - [ Main() Method ](#main)
     - [ System.out.println() ](#print)
 4. [ Java Output / Print ](#output)
