@@ -39,6 +39,7 @@
 2. [ Java Classes/objects ](#classes)
     - [ Create a class ](#createclass)
     - [ Create an object ](#createobject)
+    - [ Multiple Objects ](#multipleobject)
 4. [ Java Class attributes](#attributes)
 5. [ Java Class Method ](#classmethod)
 6. [ Java Class Constructors ](#classconstructor)
@@ -549,3 +550,6 @@ public class Main {
   }
 }
 ````
+
+<a name="multipleobject"></a>
+### Multiple Object
