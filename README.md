@@ -592,3 +592,7 @@ class Second {
   }
 }
 ````
+The output will be:
+````
+5
+````
